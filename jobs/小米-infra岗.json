@@ -1,9 +1,5 @@
 {
   "id": "小米-infra岗",
-  "status": "待投递",
-  "tags": [],
-  "created_at": "2026-08-30 10:47",
-  "updated_at": "2026-08-30 10:47",
   "company": "小米",
   "position": "Infra岗",
   "url": "",
@@ -11,6 +7,9 @@
   "salary": "",
   "source": "",
   "deadline": "",
+  "tags": [],
   "notes": "",
-  "jd": ""
+  "jd": "",
+  "created_at": "2026-08-30 10:47",
+  "updated_at": "2026-08-30 16:45"
 }

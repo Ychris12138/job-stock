@@ -2,11 +2,11 @@
   "id": "example-示例公司-算法工程师",
   "company": "示例公司",
   "position": "算法工程师",
+  "category": "算法",
   "url": "https://example.com/jobs/123",
   "location": "杭州",
   "salary": "30-45K·14薪",
   "source": "官网",
-  "status": "待投递",
   "deadline": "2026-09-15",
   "tags": [
     "AI4S",
