@@ -3,14 +3,16 @@
   "company": "示例公司",
   "position": "算法工程师",
   "category": "算法",
+  "recruit_type": "校招",
   "url": "https://example.com/jobs/123",
-  "location": "杭州",
+  "locations": [
+    "杭州"
+  ],
   "salary": "30-45K·14薪",
   "source": "官网",
   "deadline": "2026-09-15",
   "tags": [
-    "AI4S",
-    "校招"
+    "AI4S"
   ],
   "notes": "这是一条示例数据，确认系统可用后可以删掉（或把状态改成 已归档）。",
   "jd": "在这里粘贴 JD 原文快照…",

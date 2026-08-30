@@ -3,16 +3,17 @@
   "company": "字节跳动",
   "position": "通用基础模型研究员 - AI for Science",
   "category": "研究",
+  "recruit_type": "校招",
   "url": "https://jobs.bytedance.com/campus/position?keywords=A177193",
-  "location": "深圳",
+  "locations": [
+    "深圳",
+    "上海",
+    "北京"
+  ],
   "source": "官网",
   "tags": [
     "AI4S",
-    "校招",
     "2027届",
-    "深圳",
-    "上海",
-    "北京",
     "基础模型"
   ],
   "notes": "职位 ID A177193。工作地点：深圳 / 上海 / 北京。招聘项目：2027届校园招聘（正式），研发 - 算法。",

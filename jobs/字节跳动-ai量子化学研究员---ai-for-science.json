@@ -3,14 +3,15 @@
   "company": "字节跳动",
   "position": "AI量子化学研究员 - AI for Science",
   "category": "研究",
+  "recruit_type": "校招",
   "url": "https://jobs.bytedance.com/campus/position?keywords=A80982B",
-  "location": "北京",
+  "locations": [
+    "北京"
+  ],
   "source": "官网",
   "tags": [
     "AI4S",
-    "校招",
     "2027届",
-    "北京",
     "量子化学"
   ],
   "notes": "职位 ID A80982B。工作地点：北京。招聘项目：2027届校园招聘（正式），研发 - 算法。",
