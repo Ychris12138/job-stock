@@ -1,0 +1,26 @@
+{
+  "id": "摩尔线程-j10960",
+  "company": "摩尔线程",
+  "position": "physical AI 物理引擎工程师",
+  "job_no": "J10960",
+  "category": "算法",
+  "recruit_type": "校招",
+  "url": "https://mthreads.zhiye.com/campus/detail?jobAdId=dd1a1251-2cba-46a5-a704-d487bfc20a11",
+  "locations": [
+    "北京",
+    "上海",
+    "杭州"
+  ],
+  "salary": "",
+  "source": "官网",
+  "deadline": "",
+  "tags": [
+    "物理仿真",
+    "具身智能",
+    "强化学习"
+  ],
+  "notes": "发布于 2026-08-12，全职。匹配：物理引擎+合成数据+仿真（Isaac/Mujoco），明确要求数学物理基本功，与凝聚态物理背景契合度高；需补 CUDA/GPU 编程与强化学习工程经验。",
+  "jd": "工作职责：\n1.深度理解Transformer及衍生架构：深入掌握Transformer、BERT、GPT等模型的核心原理。对于VLA，还需了解如何将视觉Transformer（ViT）、大语言模型（LLM）与动作解码器（Action Decoder）高效融合。\n2.全流程预训练与微调经验：具备从零开始搭建、调试和完成模型预训练、微调（Fine-tuning）全流程的能力。这包括理解不同预训练任务（如对比学习、语言建模、动作预测）的设计及其对模型能力的影响。\n3.深入理解合成数据的扩展规律与缩放定律（Scaling Laws），系统掌握数据规模、数据质量与模型性能之间的量化关系，具备判断数据生产边际收益的能力。\n4.深刻理解合成数据与真实数据之间的分布对齐问题，掌握Sim-to-Real迁移中的数据域适应方法论，能够从数据源头系统性缩小仿真与真实之间的Gap。\n5.了解数据坍缩（Model Collapse）的形成机理与应对策略，对合成数据迭代生成过程中的分布退化问题有理论认知和预防方法论。\n6.GPU高性能编程：熟练掌握CUDA/Nvidia Warp或Taichi编程。具备针对GPU架构（warp-level优化、共享内存使用）优化物理碰撞检测和求解器的经验。\n\n任职资格：\n1.具备具身智能仿真平台开发的经验，有良好的数学物理基本功；\n2.熟悉PyTorch生态，能将物理仿真作为一个differentiable layer嵌入神经网络训练图；\n3.熟悉Isaac Gym/Isaac Lab或Mujoco/Brax的架构原理，并能分析其优劣；\n4.强化学习基础扎实，深入理解RL常用算法原理（PPO、SAC等）；\n5.熟练使用至少一种RL框架（RSL RL、RLinf）；\n6.至少将一种RL策略部署到真实机器人（人形、四足或机械臂）；\n7.熟悉机器人学基础：运动学、动力学、刚体变换等；\n8.有Pi0、OpenVLA、ACT、Diffusion Policy等项目经验优先。",
+  "created_at": "2026-08-31 17:08",
+  "updated_at": "2026-08-31 17:08"
+}
