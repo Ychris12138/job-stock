@@ -1,0 +1,22 @@
+{
+  "id": "深势科技-agent开发实习生-化学方向",
+  "company": "深势科技",
+  "position": "agent 开发实习生（化学方向）",
+  "recruit_type": "实习",
+  "url": "https://dptechnology.jobs.feishu.cn/index/position/7668217627530332422/detail",
+  "locations": [
+    "北京 上海"
+  ],
+  "salary": "",
+  "source": "官网公开职位页",
+  "deadline": "",
+  "tags": [
+    "AI4S",
+    "分子模拟",
+    "Python"
+  ],
+  "notes": "高匹配：岗位涉及论文化学信息抽取、Agent 工作流、JSON 数据规范、评测和 Python/数据处理。简历有物理科研、AI4S、Python 与 LLM/Coding Agent 经验；需确认化学反应数据经验和实习时间。检索日期：2026-08-30。",
+  "jd": "岗位定位为化学论文反应信息自动化提取平台。职责包括校验反应物/产物/催化剂/溶剂/产率，设计图文解析与结构化抽取 Agent 工作流，定义 JSON Schema 和校验规则，依据标注评测优化提示词与后处理逻辑，建设标注/评测/数据追溯闭环。",
+  "created_at": "2026-08-30 20:30",
+  "updated_at": "2026-08-30 20:34"
+}
