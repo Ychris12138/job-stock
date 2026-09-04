@@ -1,0 +1,18 @@
+{
+  "id": "十沣科技-CAE算法开发-校招",
+  "company": "十沣科技",
+  "position": "AI算法专家 / CAE-CFD算法开发工程师（校招）",
+  "job_no": "",
+  "category": "研究",
+  "recruit_type": "校招",
+  "url": "https://www.tenfong.cn/join",
+  "locations": ["深圳", "北京", "南京", "杭州"],
+  "salary": "",
+  "source": "十沣科技招聘页；高校就业简章",
+  "deadline": "",
+  "tags": ["CAE", "CFD", "AI4S", "LBM", "博士", "物理仿真"],
+  "notes": "国产CAE求解器公司，AI算法专家要求博士、AI for Science/物理AI和数值方法积累；CAE/CFD算法开发曾明确招收理论物理博士。匹配度高；需补PDE数值方法、CFD/LBM、GPU并行和C++。2027批次需持续跟踪。",
+  "jd": "研发方向包括AI for Science、介观CFD、CAE-CFD算法开发和GPU并行；历史校招简章列出理论物理等需求专业。",
+  "created_at": "2026-09-03 12:00",
+  "updated_at": "2026-09-03 12:00"
+}
